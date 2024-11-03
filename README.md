@@ -11,14 +11,15 @@ To upload large files to this repository, you can use the following commands:
    curl -O https://raw.githubusercontent.com/amanueldemirew/uploade_large_file/main/commit_all.sh
 Give execution permissions to the script:
 
-bash
-Copy code
-chmod +x commit_all.sh
+2. bash
+   ```bash
+   chmod +x commit_all.sh
 Run the script to commit and push your changes:
 
 bash
-Copy code
-./commit_all.sh
+    ```bash
+    ./commit_all.sh
+
 Ensure that you have Git installed and configured on your machine before running these commands.
 
 Contributing
