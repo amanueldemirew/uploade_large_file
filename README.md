@@ -1,4 +1,4 @@
-```markdown
+
 # Upload Large File Repository
 
 Welcome to the uploade_large_file repository! This repository provides a script to help you upload large files to GitHub.
